@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954568381261",
+    "project_id": "flip-8f7d6",
+    "storage_bucket": "flip-8f7d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954568381261:android:24d2c11db31f8fe70d1d04",
+        "android_client_info": {
+          "package_name": "com.example.flipcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954568381261-529i9p30tagtib6rvjsj6i53605qgj4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScFy_HktyZmTqaEFDC3WNJWwNWWYZenk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954568381261-529i9p30tagtib6rvjsj6i53605qgj4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
